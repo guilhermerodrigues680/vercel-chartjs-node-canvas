@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "routes": [{ "src": "/.*", "dest": "/api/index" }],
+    "routes": [],
     "functions": {
       "api/index.js": {
         "includeFiles": "fonts/**"
